@@ -12,3 +12,4 @@ while hora_actual != hora_alarma:
     hora_actual = time.strftime('%H:%M:%S')
     time.sleep(1)
 print("¡Despierta! Es hora de levantarse.")
+""" adjuntar sonido alarma """
